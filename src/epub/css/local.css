@@ -37,6 +37,16 @@ section[epub|type~="dedication"] > *{
 	font-variant: small-caps;
 }
 
+[epub|type~="z3998:postscript"]{
+	margin-top: 1em;
+	text-align: initial;
+	text-indent: 0;
+}
+
+.telegram {
+	font-variant: all-small-caps;
+}
+
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
 	text-indent: 0;
@@ -55,10 +65,4 @@ section[epub|type~="dedication"] > *{
 #the-man-who-died-twice blockquote{
 	font-variant: small-caps;
 	text-align: center;
-}
-
-[epub|type~="z3998:postscript"]{
-	margin-top: 1em;
-	text-align: initial;
-	text-indent: 0;
 }
