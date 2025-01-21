@@ -43,7 +43,7 @@ section[epub|type~="dedication"] > *{
 	text-indent: 0;
 }
 
-.telegram {
+.telegram{
 	font-variant: all-small-caps;
 }
 
