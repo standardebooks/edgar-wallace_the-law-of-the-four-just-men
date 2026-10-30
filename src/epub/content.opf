@@ -65,7 +65,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<dc:contributor id="artist">Wilhelm Trübner</dc:contributor>
 		<meta property="file-as" refines="#artist">Trübner, Wilhelm</meta>
-		<link href="https://en.wikipedia.org/wiki/Wilhelm_Trübner" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Wilhelm_Tr%C3%BCbner" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/nr95019491.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Roy Glashan</dc:contributor>
